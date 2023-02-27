@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "name": "Moxie",
+        "owner": "Dani Roxberry",
+        "picture": "images/dani_dog.png"
+    },
+    {
+        "id": 1,
+        "name": "Mitchell's Siganture Black Hoodie",
+        "owner": "Mitchell Hudson",
+        "picture": "images/mitchell_hoodie.png"
+    },
+    {
+        "id": 2,
+        "name": "Braus' Book",
+        "owner": "Adam Braus",
+        "picture": "images/braus_book.png"
+    },
+    {
+        "id": 3,
+        "name": "Kash's Desserts",
+        "owner": "Aakash Sudhakar",
+        "picture": "images/kash_dessert.png"
+    },
+    {
+        "id": 4,
+        "name": "Dan's Positivity",
+        "owner": "Daniel Morse",
+        "picture": "images/dan_positivity.png"
+    }
+]

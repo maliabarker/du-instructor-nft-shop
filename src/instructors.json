@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "name": "Dani Roxberry",
+        "picture": "images/dani.png",
+        "specialty": "Backend Web"
+    },
+    {
+        "id": 1,
+        "name": "Mitchell Hudson",
+        "picture": "images/mitchell.png",
+        "specialty": "Frontend Web"
+    },
+    {
+        "id": 2,
+        "name": "Adam Braus",
+        "picture": "images/braus.png",
+        "specialty": "Jack of All Trades"
+    },
+    {
+        "id": 3,
+        "name": "Aakash Sudhakar",
+        "picture": "images/kash.png",
+        "specialty": "Data Science"
+    },
+    {
+        "id": 4,
+        "name": "Daniel Morse",
+        "picture": "images/dan.png",
+        "specialty": "SPD"
+    }
+]
