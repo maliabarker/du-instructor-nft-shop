@@ -9,7 +9,7 @@ contract DUInstructors {
     address[16] public owners;
 
     // Owning instructor NFT
-    function adopt(uint instructorId) public returns (uint) {
+    function mint(uint instructorId) public returns (uint) {
         require(instructorId >= 0 && instructorId <= 15);
 
         owners[instructorId] = msg.sender;

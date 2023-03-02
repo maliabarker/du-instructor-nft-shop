@@ -116,7 +116,7 @@ App = {
         instructorInstance = instance;
 
         // Execute adopt as a transaction by sending account
-        return instructorInstance.adopt(instructorId, {from: account});
+        return instructorInstance.mint(instructorId, {from: account});
       }).then(function(result) {
         return App.markOwned();
       }).catch(function(err) {
